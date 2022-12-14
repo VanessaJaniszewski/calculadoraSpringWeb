@@ -10,7 +10,7 @@ public class Operadores {
 	private Double operandoA;
 	private Double OperandoB;
 	private String operador;
-	private String descricaoOperação;
+	private Operacao descricaoOperação;
 	private Double resultado;
 	private String binario;
 
